@@ -1,5 +1,11 @@
 #!/c/Users/CSJY/AppData/Local/Programs/Python/Python37/python.exe
 
+'''
+读取示波器测量平均值
+安装pyvisa
+可能需要安装是德IOLibsuite
+'''
+
 Version = "V1.0.0"
 
 import serial
